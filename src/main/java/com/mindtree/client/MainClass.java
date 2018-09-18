@@ -37,6 +37,7 @@ import java.util.Scanner;
 				System.out.println("2.Generate Report");
 				System.out.println("3.EXIT");
 				System.out.println("Enter your choice:");
+				System.out.println("Enter:");
 				choice=sc.nextInt();
 				
 			}while(choice != 4);
